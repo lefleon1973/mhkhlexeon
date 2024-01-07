@@ -1,0 +1,27 @@
+﻿.text1 {
+  Arial, Helvetica, sans-serif;
+  line-height: 20px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align=center;
+}
+.messageSpan,.resultSpan {
+  line-height: 35px;
+	font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+  text-decoration: underline;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 10px;
+}
+.messageSpanC ,.messageSpanC1,.resultSpanC,.resultSpanC1 {
+  line-height: 20px;
+	font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+  text-decoration: none;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	
+}
